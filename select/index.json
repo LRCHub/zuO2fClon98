@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "JANE DOE",
+  "base_artist": "Kenshi Yonezu and Hikaru Utada",
+  "createdAt": "2025-12-01T16:00:00.497930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock Rock Y'all (feat. Punchline, Wordsworth, Jane Doe & Mos Def)",
+      "artist": "A Tribe Called Quest feat. Punchline, Wordsworth, Jane Doe & Mos Def",
+      "has_synced": false,
+      "path": "select/01_Rock_Rock_Y'all_(feat._Punchline,_Wordsworth,_Jane_Doe_&_Mos_Def)_A_Tribe_Called_Quest_feat._Punchline,_Wordsworth,_Jane_Doe_&_Mos_Def.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/02_Jane_Doe_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/03_Jane_Doe_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/04_Jane_Doe_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Me And Jane Doe",
+      "artist": "Charlotte Gainsbourg",
+      "has_synced": true,
+      "path": "select/05_Me_And_Jane_Doe_Charlotte_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In the Heart of Jane Doe",
+      "artist": "Nat King Cole",
+      "has_synced": true,
+      "path": "select/06_In_the_Heart_of_Jane_Doe_Nat_King_Cole.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/07_Jane_Doe_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/08_Jane_Doe_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jane Doe ( Bonus Track)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/09_Jane_Doe_(_Bonus_Track)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jane Doe (Bonus Track)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/10_Jane_Doe_(Bonus_Track)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jane Doe (Unreleased Bonustrack)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/11_Jane_Doe_(Unreleased_Bonustrack)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Alicia Keys",
+      "has_synced": false,
+      "path": "select/12_Jane_Doe_Alicia_Keys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jane Doe - Live",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/13_Jane_Doe_-_Live_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Never Shout Never",
+      "has_synced": true,
+      "path": "select/14_Jane_Doe_Never_Shout_Never.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Converge",
+      "has_synced": false,
+      "path": "select/15_Jane_Doe_Converge.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jane Doe",
+      "artist": "Hail the Sun",
+      "has_synced": true,
+      "path": "select/16_Jane_Doe_Hail_the_Sun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jane Doe",
+      "artist": "高橋みなみ",
+      "has_synced": false,
+      "path": "select/pl_01_Jane_Doe_高橋みなみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Jane Doe",
+      "artist": "高橋みなみ",
+      "has_synced": false,
+      "path": "select/pl_02_Jane_Doe_高橋みなみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "JANE DOE",
+      "artist": "高橋みなみ",
+      "has_synced": false,
+      "path": "select/pl_03_JANE_DOE_高橋みなみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "JANE DOE",
+      "artist": "高橋みなみ",
+      "has_synced": false,
+      "path": "select/pl_04_JANE_DOE_高橋みなみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "JANE DOE",
+      "artist": "高橋みなみ",
+      "has_synced": false,
+      "path": "select/pl_05_JANE_DOE_高橋みなみ.txt"
+    }
+  ]
+}
